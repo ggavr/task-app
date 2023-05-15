@@ -6,7 +6,6 @@
 // (actions: Actions): BoundActions<Actions> => {
 // 	const dispatch = useAppDispatch();
 //
-// 	return useMemo(() => bindActionCreators(actions, dispatch), []);
 // };
 //
 // // Types
